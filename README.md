@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Letícia</h1>
-🎓 I have a degree in Software Engineering with a specialization in UX/UI design
-📝 Studying to specialize in front end development
-⚡ Futsal player in her spare time
-📫 How to reach me contatolbaiao@gmail.com
+<p>🎓 I have a degree in Software Engineering with a specialization in UX/UI design </p>
+<p> 📝 Studying to specialize in front end development </p>
+<p> ⚡ Futsal player in her spare time </p>
+<p> 📫 How to reach me contatolbaiao@gmail.com </p>
 
 <h3 align="left">Languages and Tools:</h3>
 Frontend Development:
