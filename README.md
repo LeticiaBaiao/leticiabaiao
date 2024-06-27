@@ -3,7 +3,7 @@
 <p> 📝 Studying to specialize in front end development </p>
 <p> ⚡ Futsal player in her spare time </p>
 <p> 📫 How to reach me contatolbaiao@gmail.com </p>
-<hr/>
+<hr border="1px"/>
 <h3 align="left">Languages and Tools:</h3>
 Frontend Development:
 <p align="left">
