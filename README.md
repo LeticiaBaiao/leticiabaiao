@@ -1,10 +1,10 @@
-<h1 align="right">Hi 👋, I'm Letícia</h1>
-<h3 align="right">I have a degree in Software Engineering with a specialization in UX/UI design.</h3>
+<h1 align="left">Hi 👋, I'm Letícia</h1>
+<h3 align="left">I have a degree in Software Engineering with a specialization in UX/UI design.</h3>
 
 - 📫 How to reach me **contatolbaiao@gmail.com**
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/let%c3%adcia-bai%c3%a3o-7789ba182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/let%c3%adcia-bai%c3%a3o-7789ba182/" height="30" width="40" /></a>
 <a href="https://instagram.com/ohhle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ohhle" height="30" width="40" /></a>
 <a href="https://dribbble.com/ohhle_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ohhle_" height="30" width="40" /></a>
