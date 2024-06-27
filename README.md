@@ -3,7 +3,7 @@
 <p> 📝 Studying to specialize in front end development </p>
 <p> ⚡ Futsal player in her spare time </p>
 <p> 📫 How to reach me contatolbaiao@gmail.com </p>
-
+<hr/>
 <h3 align="left">Languages and Tools:</h3>
 Frontend Development:
 <p align="left">
@@ -18,6 +18,7 @@ Frontend Development:
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" margin:"10"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" margin:"10""/> </a>
 </p>
+<hr />
 Backend Development:
 
 <p align="left">
@@ -28,6 +29,7 @@ Backend Development:
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" margin:"10"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" margin:"10"/> </a>
 </p>
+<hr />
 Development Tools:
 
 <p align="left">
@@ -36,12 +38,7 @@ Development Tools:
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" margin:"10"/> </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/let%c3%adcia-bai%c3%a3o-7789ba182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/let%c3%adcia-bai%c3%a3o-7789ba182/" height="20" width="20" margin:"10"/></a>
-<a href="https://instagram.com/ohhle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ohhle" height="20" width="20" margin:"10"/></a>
-<a href="https://dribbble.com/ohhle_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ohhle_" height="20" width="20" margin:"10"/></a>
-</p>
+<hr />
 Design and Prototyping:
 
 <p align="left">
@@ -49,3 +46,10 @@ Design and Prototyping:
 <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40" margin:"10"/> </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiabaiao&show_icons=true&locale=en&layout=compact" alt="leticiabaiao" /></p>
+<hr />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/let%c3%adcia-bai%c3%a3o-7789ba182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/let%c3%adcia-bai%c3%a3o-7789ba182/" height="20" width="20" margin:"10"/></a>
+<a href="https://instagram.com/ohhle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ohhle" height="20" width="20" margin:"10"/></a>
+<a href="https://dribbble.com/ohhle_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ohhle_" height="20" width="20" margin:"10"/></a>
+</p>
