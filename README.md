@@ -3,7 +3,7 @@
 <p> 📝 Studying to specialize in front end development </p>
 <p> ⚡ Futsal player in her spare time </p>
 <p> 📫 How to reach me contatolbaiao@gmail.com </p>
-<hr height="1px"/>
+<div style={border: "1px solid"}>
 <h3 align="left">Languages and Tools:</h3>
 Frontend Development:
 <p align="left">
@@ -53,3 +53,4 @@ Design and Prototyping:
 <a href="https://instagram.com/ohhle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ohhle" height="20" width="20" margin:"10"/></a>
 <a href="https://dribbble.com/ohhle_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ohhle_" height="20" width="20" margin:"10"/></a>
 </p>
+</div>
